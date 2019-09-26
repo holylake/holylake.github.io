@@ -20,6 +20,8 @@ git config --global http.sslVerify false
 
 # Vi
 
+*some vi stuff*
+
 ```bash
 vi :tabe :Ex
 ```

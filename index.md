@@ -1,36 +1,28 @@
-## Welcome to GitHub Pages
+# My Cheatsheet
 
-You can use the [editor on GitHub](https://github.com/holylake/holylake.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Systemd
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*what services are enabled?*
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+systemctl list-unit-files | grep enabled
+systemctl list-unit-files --state=enabled
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Git
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/holylake/holylake.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*preventing git to use ssl*
 
-### Support or Contact
-Hallo!!!
+```bash
+git config --global http.sslVerify false
+```
+
+# Vi
+
+```bash
+vi :tabe :Ex
+```
+```bash
+Ctrl-v or Ctrl-q --> vi Block
+```

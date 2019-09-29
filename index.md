@@ -10,6 +10,8 @@ layout: default
 
 [about](about)
 
+[contact](contact)
+
 - [ ] Test
 
 Hallo|Tabelle

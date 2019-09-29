@@ -9,12 +9,19 @@ und
 
 ### Name Kofahl, Andreas
 Geburtsdatum 19. September 1965
+
 Geburtsort Flensburg
+
 Staatsangehörigkeit deutsch
+
 Kinder keine
-Anschrift Schulzendorfer Strasse 26, 13503 Berlin
+
+## Anschrift 
+  Schulzendorfer Strasse 26
+  13503 Berlin
 Telefon 030 / 30 81 69 92 oder 0173 / 246 3 246
-Email andreas@kofahl.de
-Berufspraxis
-Wirtschaft und Industrie
+## Email 
+  andreas@kofahl.de
+# Berufspraxis
+### Wirtschaft und Industrie
 Seit November 2017 Init AG 

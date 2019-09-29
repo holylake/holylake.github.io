@@ -25,5 +25,4 @@ Telefon 030 / 30 81 69 92 oder 0173 / 246 3 246
 # Berufspraxis
 ### Wirtschaft und Industrie
 Seit November 2017 Init AG 
-
-[assets/pdf/andreas.kofahl.cv.pdf](download cv)
+[download cv](assets/pdf/andreas.kofahl.cv.pdf)

@@ -12,11 +12,7 @@ layout: default
 
 [contact](contact)
 
-- [ ] Test
 
-Hallo|Tabelle
------|-----
-Eins | zwei
 
 # Some quote:
 > bla bla bla

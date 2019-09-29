@@ -4,8 +4,9 @@ layout: default
 
 ### Hallo und willkommen in holylake
 
+[cv](cv)
 
-[cheat](blog)
+[cheatsheets](blog)
 
 [about](about)
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Huhu
+### Hallo und willkommen in holylake
 
 [home](./)
 

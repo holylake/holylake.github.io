@@ -1,6 +1,6 @@
 ----
 layout: default
 ---
- 
- [/](home)
- [cheat](jjjj)
+Huhu
+[/](home)
+[cheat](blog)

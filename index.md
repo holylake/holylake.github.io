@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-###Huhu
+
+### Huhu
 [/](home)
 [cheat](blog)
 [about](about)

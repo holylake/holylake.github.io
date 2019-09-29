@@ -10,4 +10,4 @@ layout: default
 
 [about](about)
 
-- [] Test
+- [ ] Test

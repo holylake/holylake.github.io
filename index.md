@@ -4,7 +4,7 @@ layout: default
 
 ### Huhu
 
-[/](home)
+[](home)
 
 [cheat](blog)
 

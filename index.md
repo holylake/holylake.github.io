@@ -19,3 +19,5 @@ layout: default
 > huhu hallo test
 >> und weiter
 >> hallo?
+
+{% include footer.html %}

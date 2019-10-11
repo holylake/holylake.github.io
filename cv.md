@@ -17,7 +17,7 @@ Kinder keine
   Schulzendorfer Strasse 26
   13503 Berlin
 ## Phone
-Telefon 030 / 30 81 69 92 oder 
+Telefon 030 / 31 80 69 92 oder 
 0173 / 246 3 246
 ## Email 
   andreas@kofahl.de

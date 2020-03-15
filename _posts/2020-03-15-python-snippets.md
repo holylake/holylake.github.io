@@ -1,7 +1,7 @@
 
 **argparse**
 
-ˋˋˋpython
+```python
 def main():
 	parser = argparse.ArgumentParser()
 	
@@ -24,5 +24,4 @@ def main():
 	if args.d:
 		print 'debug it!'
 	return
-
-ˋˋˋ
+```
